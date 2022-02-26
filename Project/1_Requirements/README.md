@@ -18,7 +18,7 @@ HLR 2	|Switch off the entire system when there is no person inside the room.
 
 HLR 3	|To measure the temperature of the room.
 
-Low Level Requirements:
+## Low Level Requirements:
 
 ID	|  Description
 ----|--------------
