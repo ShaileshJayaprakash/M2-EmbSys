@@ -37,7 +37,6 @@ HLR 2  |System shall detect rain
 -------| -----------------------------------------
 LLR 1.1  |Rain sensor shall detect the rain
 LLR 1.2  |This signal shall be processed by microcontroller to turn on the wiper
-
 LLR 2.1  |Rain shall be detected by using rain sensor  
 LLR 2.2  |Rain sensor shall work on the principle of using water for completing its circuit
  
