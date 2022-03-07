@@ -1,6 +1,7 @@
 ## 1.Block Diagram and Component details
 
-
+![](/Project/6_ImagesAndVideos/Block%20Dig.1.png)
+![](/Project/6_ImagesAndVideos/Block%20Dig.2.png)
 
 ## 2.Architecture
    ### 2.1 Behavioural Diagram
