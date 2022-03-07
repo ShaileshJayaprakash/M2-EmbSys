@@ -17,13 +17,12 @@ The main objective of this system is to initiate the wiper action when it rains 
 
 ## 1.4	5W’s and 1 H
 
-![](/6_ImagesAndVideos/5w1h.png)
+![](Project/6_ImagesAndVideos/5w1h.png)
 
  
-
 ## 1.5 SWOT Analysis
  
-![](6_ImagesAndVideos/swot.png)
+![](Project/6_ImagesAndVideos/swot.png)
 
 ## 2.Requirements
 ## 2.1 High Level Requirements
