@@ -24,7 +24,7 @@ The rain sensor works on the principle of using water for completing its circuit
  
 ![](/Project/6_ImagesAndVideos/swot.png)
 
-### Requirements
+## Requirements
 ## 2.1 High Level Requirements
 ID     | Description
 -------| -----------------------------------------
