@@ -26,13 +26,20 @@ The main objective of this system is to initiate the wiper action when it rains 
 
 ## 2.Requirements
 ## 2.1 High Level Requirements
-HLR1        System shall automatically turn the wiper on when it starts raining  
-HLR2        System shall detect rain
+ID     | Description
+-------| -----------------------------------------
+HLR 1  |System shall automatically turn the wiper on when it starts raining
+HLR 2  |System shall detect rain
+
 
 ## 2.2 Low Level Requirements
- LLR1.1  Rain sensor shall detect the rain  
- LLR1.2  This signal shall be processed by microcontroller to turn on the wiper   
+ ID     | Description
+-------| -----------------------------------------
+LLR 1.1  |Rain sensor shall detect the rain
+LLR 1.2  |This signal shall be processed by microcontroller to turn on the wiper
 
-LLR2.1   Rain shall be detected by using rain sensor  
-LLR2.2   Rain sensor shall work on the principle of using water for completing its circuit
+LLR 2.1  |Rain shall be detected by using rain sensor  
+LLR 2.2  |Rain sensor shall work on the principle of using water for completing its circuit
+ 
+
 
