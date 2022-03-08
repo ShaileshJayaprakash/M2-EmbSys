@@ -45,5 +45,8 @@ LLR 1.2  |This signal shall be processed by microcontroller to turn on the wiper
 LLR 2.1  |Rain shall be detected by using rain sensor  
 LLR 2.2  |Rain sensor shall work on the principle of using water for completing its circuit
  
+## Applications 
+1.It can be used in cars to automatically control the wiper action when needed.
+2.Using in cars thereby ease the work of driver and also contributes in comfortable driving by enabling the wiper action without manual intervention.
 
 
