@@ -1,3 +1,4 @@
+## Badges
 ## Badge of Codiga
 
 ### Grade
