@@ -1,4 +1,4 @@
-## Case Study 1- Automatic Car Wiper
+## Case Study 2- Automatic Car Wiper
 ### Description
 The car wipers that have been available in the present day market are manual systems that work on the principle of manual switching.Our proposed system proposes an automatic wiper system that automatically switches ON the wiper on detection of rain and stops the wiper action when rain stops. This system eases the work of driver by eliminating the manual human intervention for initiating the wiper action, thereby contributing to the comfort driving. Here, the rain sensor is used along with microcontroller (Arduino UNO) and driver IC to drive the wiper motor. The rain sensor detects rain and then the signal is then processed by microcontroller to take the desired wiper action.
 
